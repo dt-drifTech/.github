@@ -1,1 +1,1 @@
-drifTech Docker Server Manager
+drifTech
